@@ -1,0 +1,18 @@
+.bmi-form{
+    width: 50%;
+    margin: 30px auto;
+    border: 2px solid black;
+    padding: 20px;
+}
+h2{
+    text-align: center;
+}
+
+#submitButton{
+    margin-top: 10px;
+}
+
+.showResult{
+    margin-top: 10px;
+
+}
