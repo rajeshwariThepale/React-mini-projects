@@ -1,3 +1,8 @@
+.questions{
+    margin-bottom: 30px;
+    padding: 10px 30px;
+}
+
 .questions h2{
     color: rgb(68, 102, 122);
 }
